@@ -1,0 +1,55 @@
+#outer{
+    max-width: 500px;
+    min-width: 500px;
+    width:80%;
+    height:29em;
+    margin-top:5em;
+    margin-left:5em;
+    background-color: rgb(239, 237, 237);
+}
+#screen{
+    background-color: white;
+    width:95%;
+    margin-left:0.5em;
+    margin-top:0.5em;
+    height:5em;
+}
+#screen p{
+    text-align-last: right;
+    padding-top:1.5em;
+    padding-right: 0.5em;
+    font-size: 30px;
+}
+#heading{
+    background-color: black;
+    padding:0.3px;
+    width:95%;
+    margin:0.5em;
+}
+#heading h1{
+   text-align: center;
+   font-size: 2em;
+   color:white;
+}
+#table{
+    background-color: white;
+    width:95%;
+    margin:0.5em;
+    height:15em;
+    border-color:rgb(244, 240, 240);
+}
+.red {
+    background-color: red;
+    color:white;
+    width:6em;
+}
+#table {
+    text-align: center;
+}
+
+#table td:hover{
+    background-color: yellow;
+    color:black;
+    cursor: pointer;
+}
+
