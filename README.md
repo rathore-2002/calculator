@@ -1,1 +1,2 @@
-# Made a basic Calculator page using HTMl , CSS and Javascript. This is a responsive web page.
+# Calculator-
+made the basic calculator using HTML , CSS and javascript.
